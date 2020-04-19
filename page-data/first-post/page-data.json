@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/first-post","result":{"data":{"markdownRemark":{"html":"<p>Hello world</p>","frontmatter":{"title":"My first post using Gatsby"}}},"pageContext":{"pathSlug":"/first-post","prev":{"frontmatter":{"title":"Second post","path":"/second-post","date":"2020-04-19","tags":["second"]}},"next":null}}}
